@@ -15,7 +15,7 @@ public class Const {
     public static final String GET = "GET";
     public static final String HEADER_NAME = "Content-Type";
     public static final String BODY_VALUE = "application/json";
-    public static final String MAIN_URL = "http://127.0.0.1:2705/vovk_server_part/user/";
+    public static final String MAIN_URL = "http://164.68.101.149:12345/vovk_server_part/user/";
     public static final String URL_ADD_REQUEST = MAIN_URL + "add";
     public static final String URL_DELETE_NAME_REQUEST = MAIN_URL + "delete/name";
     public static final String URL_DELETE_ID_REQUEST = MAIN_URL + "delete/id";
